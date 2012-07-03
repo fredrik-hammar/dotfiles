@@ -1,0 +1,15 @@
+[user]
+	name = Fredrik Hammar
+	email = carl.fredrik.hammar@gmail.com
+
+[core]
+	excludesfile = ~/.gitexcludes
+[sendmail]
+[format]
+[diff]
+	patience = true
+[sendemail]
+	annotate = true
+	multiedit = false
+	confirm = always
+	suppressfrom = true

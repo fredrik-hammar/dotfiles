@@ -1,0 +1,5 @@
+# Globs of files that git should ignore in any repo
+*~
+\.*.swp
+.swp
+*#
