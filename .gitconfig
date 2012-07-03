@@ -1,0 +1,5 @@
+[user]
+	name = Fredrik Hammar
+	email = fredrik.hammar@dataductus.se
+[core]
+	excludesfile = /home/ddsmfhr/.gitconfig.ignore
