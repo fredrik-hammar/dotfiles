@@ -1,6 +1,6 @@
 [user]
 	name = Fredrik Hammar
-	email = carl.fredrik.hammar@gmail.com
+	email = fredrik.hammar@dataductus.se
 
 [core]
 	excludesfile = ~/.gitexcludes
